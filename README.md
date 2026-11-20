@@ -8,7 +8,8 @@ Physicist (Universidad Autónoma de Madrid) and MSc student in Artificial Intell
 Python (pandas, NumPy, scikit-learn) · SQL · DuckDB · Power BI · Git
 
 ### Projects
-
-
+- **[Parallel genetic algorithm solver](https://github.com/JuanDavilaM/Proyecto_Avanzado)** · OneMax and TSP solved in parallel with multiprocessing, plus a memetic algorithm with 2-opt local search that reduces TSP route length by up to 59%. Team project at CUNEF (Python).
+- *Coming soon:* a data system for hospitality management (Python, DuckDB).
+  
 ### Contact
 [LinkedIn](https://www.linkedin.com/in/davidmartinmontalban)
